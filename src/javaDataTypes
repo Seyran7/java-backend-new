@@ -1,0 +1,8 @@
+public class javaDataTypes {
+  public static void main(String[] args) {
+  byte numberOne=127;
+  short  numberTwo=32767;
+  int numberThree=2,147,483,647;
+  long numberFour=9,223,372,036,854,775,807;
+  }
+  }
