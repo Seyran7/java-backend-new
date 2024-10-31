@@ -1,0 +1,9 @@
+public class main{
+public static void main (string[]args){new*
+Scanner scan = new scanner (System.in);
+int value1=scanner.nextInt();
+
+if (value%3==0){
+    System.out.Println("EDED 3-e tam bolunur");
+    }else if(value%3==1){
+    System.out.Println
