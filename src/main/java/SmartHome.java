@@ -1,8 +1,6 @@
-package az.edu.turing;
-
 import java.util.ArrayList;
 
-public class SmartHome implements Manageable{
+public class SmartHome implements Manageable {
 
     private ArrayList<User> users;
     private ArrayList<Device> devices;

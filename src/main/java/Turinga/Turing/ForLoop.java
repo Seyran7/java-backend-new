@@ -1,4 +1,4 @@
-package Turing;
+package Turinga.Turing;
 
 import java.util.Scanner;
 

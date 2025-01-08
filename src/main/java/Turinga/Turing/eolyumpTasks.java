@@ -1,4 +1,4 @@
-package Turing;
+package Turinga.Turing;
 
 public class eolyumpTasks {
     public static void main(String[]args){

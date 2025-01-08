@@ -1,5 +1,3 @@
-package az.edu.turing;
-
 public abstract class Device {
 
     public enum DeviceType {LIGHT, THERMOSTAT, CAMERA, DOORBELL}

@@ -1,5 +1,3 @@
-package az.edu.turing;
-
 public class Thermostat extends Device {
     public Thermostat(int id, String name, boolean status, Device deviceType) {
         super(id, name, status, deviceType);

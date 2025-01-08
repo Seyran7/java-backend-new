@@ -1,4 +1,4 @@
-package Turing;
+package Turinga.Turing;
 
 public class returnType {
     static int myMethod(int age){

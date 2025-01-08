@@ -1,5 +1,3 @@
-package az.edu.turing;
-
 public class Doorbell extends Device{
 
     public Doorbell(int id, String name, boolean status, Device deviceType) {

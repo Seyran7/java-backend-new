@@ -1,5 +1,3 @@
-package az.edu.turing;
-
 public class User {
     private String firstName;
     private String lastName;

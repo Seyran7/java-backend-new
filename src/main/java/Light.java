@@ -1,5 +1,3 @@
-package az.edu.turing;
-
 public class Light extends Device {
     public Light(int id, String name, boolean status, Device deviceType) {
         super(id, name, status, deviceType);
