@@ -1,4 +1,4 @@
-package ForGithub;
+package Collections;
 
 import java.util.Objects;
 

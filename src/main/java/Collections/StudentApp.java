@@ -1,6 +1,5 @@
-package ForGithub;
+package Collections;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
